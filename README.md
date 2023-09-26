@@ -10,7 +10,7 @@ Tools: Video conferencing (Zoom, Microsoft Teams), collaboration platforms (Slac
 - Detailed Assessment:
 
 Analyze the client's existing systems, processes, and infrastructure to identify gaps and opportunities.
-Tools: Data analytics tools (Power BI, Tableau), documentation tools (Microsoft Word, Google Docs).
+Tools: Data analytics tools (Power BI, Tableau, Google Analytics), documentation tools (Microsoft Word, Google Docs).
 
 - Requirements Elicitation:
 
