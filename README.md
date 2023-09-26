@@ -42,6 +42,8 @@ Tools: Development platforms (IDEs like Visual Studio Code, IntelliJ IDEA), vers
 Conduct thorough testing, including unit testing, integration testing, and user acceptance testing.
 Tools: Testing frameworks (JUnit, Selenium), bug tracking tools (Bugzilla, JIRA).
 
+- Deployment to Production
+
 - Training and Handover:
 
 Provide training sessions for end-users to ensure they understand and can use the new systems effectively.
