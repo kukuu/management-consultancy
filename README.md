@@ -128,7 +128,7 @@ In large organisations where a department could possibly have say a 1000 employe
 The idea behind guilds is that they glue the company together and ensure you avoid losing economies of scale without sacrificing too much autonomy. In other words, guilds allow for cross-referencing between squads. Example: 'Shopping'.
 
 
-## Benefits of AGILE
+### Benefits of AGILE
 
 #### 1. Revenue
 
