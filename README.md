@@ -212,3 +212,6 @@ organising training and themed dev community months/internal developer conferenc
 Other duties will include involved in recruitment and retention strategy, on-boarding new developers, 
 co-facilitating development community of practice, appraisals & Performance Management, 
 organising recognition awards and socials, and finally stays far away to let them problem-solve on their own.
+
+##  Related resources
+https://github.com/kukuu/AGILITY/blob/master/manage-sprint-backlog-effectively.md
