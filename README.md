@@ -224,7 +224,8 @@ The primary goal of DORA is to help organizations understand and improve their D
 
 DORA provides valuable benchmarks and best practices for seeking and optimising DevOps initiatives.
 
-Key Metrics
+### Key Metrics:
+
 Lead Time: The time it takes to convert a customer request or idea into a production-ready feature or service.
 
 Deployment Frequency: The frequency at which an organization deploys changes or releases to production.
