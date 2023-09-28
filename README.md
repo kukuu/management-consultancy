@@ -27,22 +27,35 @@ Tools: Technology assessment frameworks, research databases.
 Develop an Agile project plan and roadmap outlining phases, milestones, and timelines.
 Tools: Project management tools (Jira, Trello), Agile methodologies (Scrum, Kanban).
 
+1. https://github.com/kukuu/AGILITY
+2. https://github.com/kukuu/AGILITY/blob/master/how-long-must-a-scrum-last.md
+
+
 - Solution Design:
 
 Collaborate with the team to design a comprehensive solution architecture aligned with client needs.
 Tools: Diagramming tools (Lucidchart, draw.io), architecture design tools (Microsoft Visio), Figma, SKETCH, etc.
+
+https://github.com/kukuu/scalable-platforms-system-architecture
 
 - Implementation and Integration:
 
 Implement the solution using appropriate technologies and integrate them into the existing environment.
 Tools: Development platforms (IDEs like Visual Studio Code, IntelliJ IDEA), version control (Git).
 
+1. https://github.com/kukuu/software-engineering-best-practices/blob/main/software-engineering-best-practices.md
+2. https://github.com/kukuu/integration
+
 - Quality Assurance and Testing:
 
 Conduct thorough testing, including unit testing, integration testing, and user acceptance testing.
 Tools: Testing frameworks (JUnit, Selenium), bug tracking tools (Bugzilla, JIRA).
 
+https://github.com/kukuu/AGILITY/blob/master/QA.md
+
 - Deployment to Production
+
+  https://github.com/kukuu/devops.md
 
 - Training and Handover:
 
