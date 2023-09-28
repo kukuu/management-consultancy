@@ -7,7 +7,7 @@ Management Consultancy process involves a systematic approach to requirement gat
 Engage in initial meetings with key stakeholders to understand their business goals and pain points.
 Tools: Video conferencing (Zoom, Microsoft Teams), collaboration platforms (Slack, Microsoft SharePoint).
 
-- Detailed Assessment:
+- Detailed Assessment: 
 
 Analyze the client's existing systems, processes, and infrastructure to identify gaps and opportunities.
 Tools: Data analytics tools (Power BI, Tableau, Google Analytics), documentation tools (Microsoft Word, Google Docs).
