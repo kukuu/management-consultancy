@@ -36,7 +36,7 @@ Tools: Project management tools (Jira, Trello), Agile methodologies (Scrum, Kanb
 Collaborate with the team to design a comprehensive solution architecture aligned with client needs.
 Tools: Diagramming tools (Lucidchart, draw.io), architecture design tools (Microsoft Visio), Figma, SKETCH, etc.
 
-https://github.com/kukuu/scalable-platforms-system-architecture
+1. https://github.com/kukuu/scalable-platforms-system-architecture
 
 - Implementation and Integration:
 
@@ -51,11 +51,12 @@ Tools: Development platforms (IDEs like Visual Studio Code, IntelliJ IDEA), vers
 Conduct thorough testing, including unit testing, integration testing, and user acceptance testing.
 Tools: Testing frameworks (JUnit, Selenium), bug tracking tools (Bugzilla, JIRA).
 
-https://github.com/kukuu/AGILITY/blob/master/QA.md
+1. https://github.com/kukuu/AGILITY/blob/master/QA.md
 
 - Deployment to Production
 
-  https://github.com/kukuu/devops.md
+1. https://github.com/kukuu/CI-CD-pipeline-with-Jenkins
+2. https://github.com/kukuu/devops.md
 
 - Training and Handover:
 
@@ -72,7 +73,8 @@ Tools: Application monitoring tools (New Relic, Datadog, Prometheus), incident t
 Continuously collect feedback from stakeholders and identify areas for further improvement.
 Tools: Continuous improvement frameworks (Lean, Six Sigma), feedback collection tools (SurveyMonkey).
 
-https://github.com/kukuu/digitalTransformationStrategies
+1. https://github.com/kukuu/CI-CD-pipeline-with-Jenkins
+2. https://github.com/kukuu/digitalTransformationStrategies
 
 ## Digital Transformation 
 
