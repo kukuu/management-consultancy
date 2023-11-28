@@ -5,7 +5,7 @@ Management Consultancy process involves a systematic approach to requirement gat
 - Initial Consultation:
 
 Engage in initial meetings with key stakeholders to understand their business goals and pain points.
-Tools: Video conferencing (Zoom, Microsoft Teams), collaboration platforms (Slack, Microsoft SharePoint).
+Tools: Video conferencing (Zoom, Microsoft Teams), collaboration platforms (Slack, Microsoft SharePoint). 
 
 - Detailed Assessment: 
 
