@@ -1,4 +1,6 @@
-# Management Consultancy & Framework for Best Practices
+# Management Consultancy 
+
+## Framework for Best Practices
 
 Management Consultancy process involves a systematic approach to requirement gathering, technology alignment, planning, implementation, testing, training, and ongoing support. Throughout each stage, a combination of communication tools, project management platforms, development environments, testing frameworks, and monitoring solutions ensure a successful digital transformation aligned with client goals and industry best practices. Hereby explain the steps: 
 
@@ -85,6 +87,13 @@ Tools: Continuous improvement frameworks (Lean, Six Sigma), feedback collection 
 
 2. https://github.com/kukuu/digitalTransformationStrategies
 
+
+## The 10 Commandments:
+
+https://github.com/kukuu/Technical-Consulting-Stakeholder-Management/blob/master/stakeholder-management-10-commandments.md
+
+By combining these tools with agile methodologies, DevOps practices, and continuous feedback loops, Solutions Architects can drive efficient, secure, and client-aligned digital transformation.
+
 ## Key Considerations for Alignment (ICCS)
 
 **Integration:** Ensure tools like Jira ↔ Confluence ↔ Slack or GitHub ↔ Jenkins ↔ Datadog integrate seamlessly.
@@ -94,10 +103,6 @@ Tools: Continuous improvement frameworks (Lean, Six Sigma), feedback collection 
 **Client Collaboration:** Prioritize platforms with client-friendly interfaces (e.g., Miro for workshops, Confluence for transparent documentation).
 
 **Scalability:** Adopt cloud-native and modular tools (e.g., Kubernetes, Terraform) for future-proofing.
-
-
-
-By combining these tools with agile methodologies, DevOps practices, and continuous feedback loops, Solutions Architects can drive efficient, secure, and client-aligned digital transformation.
 
 
 ## Tools 
