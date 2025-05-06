@@ -87,12 +87,13 @@ Tools: Continuous improvement frameworks (Lean, Six Sigma), feedback collection 
 
 2. https://github.com/kukuu/digitalTransformationStrategies
 
+By combining these tools with agile methodologies, DevOps practices, and continuous feedback loops, Solutions Architects can drive efficient, secure, and client-aligned digital transformation.
+
 
 ## The 10 Commandments:
 
 https://github.com/kukuu/Technical-Consulting-Stakeholder-Management/blob/master/stakeholder-management-10-commandments.md
 
-By combining these tools with agile methodologies, DevOps practices, and continuous feedback loops, Solutions Architects can drive efficient, secure, and client-aligned digital transformation.
 
 ## Key Considerations for Alignment (ICCS)
 
