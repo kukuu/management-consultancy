@@ -182,6 +182,9 @@ Cloud Enterprise Architecture:
 
 AWS Well-Architected Tool, Azure Architecture Center, Google Cloud Architecture Framework (cloud-specific best practices and assessments).
 
+![TOGAF-framework-for-business-requirement](https://github.com/user-attachments/assets/1f798c68-78f3-4810-adfb-b3ead4e0b823)
+
+
 **7. Systems Architecture Tools**
 
 (Designing, modeling, and validating technical systems)
