@@ -1,5 +1,10 @@
 # Management Consultancy 
 
+- Framework for Best Practices
+- The 10 Commandments
+- Key Considerations for Alignment (ICCS)
+- Tools 
+
 ## Framework for Best Practices
 
 Management Consultancy process involves a systematic approach to requirement gathering, technology alignment, planning, implementation, testing, training, and ongoing support. Throughout each stage, a combination of communication tools, project management platforms, development environments, testing frameworks, and monitoring solutions ensure a successful digital transformation aligned with client goals and industry best practices. Hereby explain the steps: 
