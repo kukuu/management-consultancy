@@ -3,7 +3,8 @@
 - Framework for Best Practices
 - The 10 Commandments
 - Key Considerations for Alignment (ICCS)
-- Tools 
+- Tools
+- Negotiations - https://github.com/kukuu/AGILITY/blob/master/negotiation-skills.md
 
 ## Framework for Best Practices
 
