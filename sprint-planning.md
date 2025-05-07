@@ -88,3 +88,7 @@ During part A, the dev team has to estimate the team velocity that they consider
 In part B, the dev team will discuss how to develop the more challenging user stories already selected to be developed. Most probably, the dev team will not have enough time to discuss how to develop all the selected user stories, so, the team has to choose the most challenging user stories.
 
 During the Sprint, the dev team has enough time to complete this discussion.
+
+##  Related resources
+https://github.com/kukuu/AGILITY/blob/master/manage-sprint-backlog-effectively.md
+
