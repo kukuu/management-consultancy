@@ -61,8 +61,10 @@ Implement the solution using appropriate technologies and integrate them into th
 
 - Quality Assurance and Testing:
 
-Conduct thorough testing, including unit testing, integration testing, and user acceptance testing.
-Tools: Testing frameworks (JUnit, Selenium), bug tracking tools (Bugzilla, JIRA).
+Conduct thorough testing, including unit testing, integration testing, Pen Testing, Security testing, Compliance and user acceptance testing.
+Tools: Testing frameworks (JUnit, Selenium), bug tracking tools (Bugzilla, JIRA), OWASP ZAP, NIST, SOC2.
+
+NIST is a cybersecurity framework providing best practices for managing security risks, while SOC2 is a compliance standard ensuring organizations protect customer data through audited controls.
 
 1. https://github.com/kukuu/AGILITY/blob/master/QA.md
 
