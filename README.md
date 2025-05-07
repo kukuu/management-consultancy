@@ -116,5 +116,3 @@ https://github.com/kukuu/Technical-Consulting-Stakeholder-Management/blob/master
 
 
 
-##  Related resources
-https://github.com/kukuu/AGILITY/blob/master/manage-sprint-backlog-effectively.md
